@@ -1,8 +1,8 @@
 <h1 align="center">Hi there👋, I'm Akzhan <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A passionate Flutter and Android Studio developer from Kazakhstan</h3>
+<h3 align="center">A passionate Android developer from Kazakhstan</h3>
 
 - 🔭 At the moment I work at **KazNARU** as a **mobile application developer**
-- 🌱 I’m currently improving my **Flutter skills** by making [music player](https://github.com/AkzhanArdaki/JukeBox-Music-Player)
+- 🌱 I’m currently learning **Flutter** by making [music player](https://github.com/AkzhanArdaki/JukeBox-Music-Player)
 - 👯 I'm looking for an **internship** or **junior job**
 - 📫 How to reach me: **Akzhan.Ardaki@inbox.ru**
 
