@@ -1,7 +1,7 @@
-<h1 align="center">Hi there👋, I'm Akzhan <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center">Hi there👋, I'm Grayson <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A passionate Flutter developer from Kazakhstan</h3>
 
-- 🔭 I work at **VelaIT** as a **mobile application developer**
+- 🔭 I work at **VelaIT** as a **Middle Flutter Developer**
 - 🌱 At the moment I am consolidating my **Flutter** skills
 - 📫 How to reach me: **Akzhan.Ardaki@inbox.ru**
 
@@ -9,7 +9,6 @@
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akzhanardaki/)
-[![image](https://img.shields.io/badge/Stack_Overflow-E67E22?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/16515904/akzhan?tab=profile)
 [![image](https://img.shields.io/badge/Email-E74C3C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Akzhan.Ardaki@inbox.ru)
   
   <h3 align="center">Languages and Tools:</h3>
